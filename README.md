@@ -1,5 +1,7 @@
 # RKE2 Installation on Rocky Linux 8
 
+RKE2 version 1.27.4+rke2r1, using Cilium as the CNI (as well as completely replacing kube-proxy). Follow up work will be covering Hubble and visualizing Cilium metrics. Stay tuned :)
+
 ## Prerequisites
 
 After provisioing the VM in Hyper-V, first set a static IP:
